@@ -4,9 +4,9 @@ Klik Untuk Langsumg Nge Deploy Di Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Andi1938/Dyrotbotz-MD-New.git)
 
-##info sc 
+#info sc 
 sc ori : andyGZ 
-Base Sc :AndyGZ
+Base Sc :AndyGZ ,SUBREK CREATOR KALO GAK GAK WROK 🗿
 ## For Termux
 
 ```bash
