@@ -1,0 +1,18 @@
+{
+	"owner": ["6282138899290@s.whatsapp.net"],
+	"thumbvideo": "https://uploader.caliph.my.id/file/hU0F0HZ9K4.mp4",
+	"thumb": "https://telegra.ph/file/d8dba7eee759ff82b35be.jpg",
+	"session": "session.json",
+	"ownername": "AndyGZ",
+	"self": false,
+	"limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+	"packInfo": { "packname": "@Dyrotbotz", "author": "creator bot andy" },
+	"namebot": "Dyrotbotz",
+	"timezone": "Asia/Jakarta",
+	"email": "prefelajr@gmail.com",
+	"instagram": "-",
+	"locale": "id",
+	"ignore": {
+		"directory": ["umum"]
+	}
+}
