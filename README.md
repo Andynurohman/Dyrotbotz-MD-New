@@ -6,7 +6,7 @@ Klik Untuk Langsumg Nge Deploy Di Heroku
 
 #info sc 
 sc ori : andyGZ 
-Base Sc :AndyGZ ,SUBREK CREATOR KALO GAK GAK WROK 🗿
+Base Sc :AndyGZ ,SUBREK YT CREATOR KALO GAK GAK WROK 🗿
 ## For Termux
 
 ```bash
