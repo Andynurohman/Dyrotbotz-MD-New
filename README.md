@@ -5,8 +5,8 @@
 <h1 align="center">Dyrotbotz-MD</h1>
 
 # WHATSAPP
-KALO Mau jasa run permanen PC GW AJA, KLIK DIBAWAH
-* [`Dyrotbotz -MD`](https://wa.me/6281285866502?text=Assalamualaikum)
+KALO Mau jasa run permanen PC GW AJA Harga 15k, KLIK DIBAWAH
+* [`Dyrotbotz -MD`](https://wa.me/6282138899290?text=Assalamualaikum Bang ganteng + Gw mo order jasa run bot ke lu permanen)
 
 # BUILDPACK HEROKU
 ```
