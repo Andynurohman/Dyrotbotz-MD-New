@@ -1,80 +1,47 @@
-## Heroku Buildpack
+<p align="center">
+  <img src="https://telegra.ph/file/9ca354c35cd2e37a466f5.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+  
+</p>
+<h1 align="center">Dyrotbotz-MD</h1>
 
-Klik Untuk Langsumg Nge Deploy Di Heroku
+# WHATSAPP
+KALO Mau jasa run permanen PC GW AJA, KLIK DIBAWAH
+* [`Dyrotbotz -MD`](https://wa.me/6281285866502?text=Assalamualaikum Bang Ganteng + Gw mo order Jasa run ke Abang ganteng)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Andi1938/Dyrotbotz-MD-New.git)
+# BUILDPACK HEROKU
+```
+Heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Andynurohman/Dyrotbotz-MD-New)
 
-#info sc 
-sc ori : andyGZ 
-Base Sc :AndyGZ ,SUBREK YT CREATOR KALO GAK GAK WROK 🗿
-## For Termux
-
-```bash
-
-termux-setup-storage
-
+# CARA PENGINSTALAN VIA TERMUX
+```
 apt update && apt upgrade
-
-pkg install nodejs
-
-pkg install git 
-
 pkg install ffmpeg
-
-pkg install libwebp 
-
 pkg install imagemagick
-
-pkg install bash
-
-git clone https://github.com/Andi1938/Dyrotbotz-MD-New.git
-
-cd dyrotbotz
-
-npm install
-
-npm start
-
+pkg install nodejs
+pkg install git
+pkg install mc
+cd /sdcard
+cd Nama file 
+yarn 
+node .
 ```
 
 ## For Windows
-
 ```bash
-
 git clone https://github.com/Andi1938/Dyrotbotz-MD-New.git
-
 cd dyrotbotz
-
 npm install
-
 npm start
-
 ```
-
 ## For VPS
-
 ```bash
-
 apt install nodejs 
-
 apt install git 
-
 apt apt install ffmpeg 
-
 apt apt install libwebp 
-
 apt apt install imagemagick
-
 apt install bash
-
-git clone https://github.com/Andi1938/Dyrotbotz-MD-New.git
-
-cd Dyrotbotz
-
-npm install
-
-npm start
-
-```
- 
-
