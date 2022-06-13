@@ -6,7 +6,7 @@
 
 # WHATSAPP
 KALO Mau jasa run permanen PC GW AJA, KLIK DIBAWAH
-* [`Dyrotbotz -MD`](https://wa.me/6281285866502?text=Assalamualaikum Bang Ganteng + Gw mo order Jasa run ke Abang ganteng)
+* [`Dyrotbotz -MD`](https://wa.me/6281285866502?text=Assalamualaikum)
 
 # BUILDPACK HEROKU
 ```
